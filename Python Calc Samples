@@ -1,0 +1,14 @@
+# The following code is a representation of various Python Calculation Samples.
+
+ab+cd =
+print(ab+cd)
+
+# Answer: abcd
+
+# Savings w/ Growth Multipler
+savings = 100
+growth_multiplier = 1.1
+result = savings * growth_multiplier ** 7
+print(result)
+
+#Answer: 194.87171000000012
